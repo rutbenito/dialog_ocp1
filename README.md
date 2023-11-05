@@ -1,6 +1,6 @@
 # dialog_ocp1
 
-A new Flutter project.
+A Flutter project with a dialog ModalBottomSheet.
 
 ## Getting Started
 
